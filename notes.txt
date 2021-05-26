@@ -1,0 +1,18 @@
+START
+=====
+
+# IIFE
+- immediated function expression 
+- função anônima para servir de embrulho
+- função imediata, de inicialização
+
+(function () {
+
+})();
+
+# eventListenet
+- vc consegue disparar dois eventos a partir do mesmo trigger
+
+# this
+- aponta pro contexto da execução da ação em questão
+- aponta pro objeto que é o contexto
