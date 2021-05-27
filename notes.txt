@@ -16,3 +16,29 @@ START
 # this
 - aponta pro contexto da execução da ação em questão
 - aponta pro objeto que é o contexto
+
+# fetch api
+- implementa a promise api do js
+- é um tipo de comunicação assíncrona
+
+# sugar sintaxe
+- sintaxe mais "doce"
+- açúcar sintático
+-  js moderno simplifica
+- colocar async na frente de function
+- estou de forma declarativa falando que é uma função de comunicação assíncrona
+- estou declarando que essa função trabalha no modelo assíncrono
+- await -> "estou aguardando resposta" -> antecendendo o comando fetch
+
+# local storage
+# session storage
+- armazenam dados na máquina do usuário
+- substituem o cookie
+- local storage -> espaço de armazenamento por contexto; de mandeira permanente na máquina do usuário até ele entrar na área disso e deletar;
+- session -> por sessão; só existe enquanto o navegador estiver aberto
+
+ARROW FUNCTION
+==============
+
+- todo lugar que vc vê uma função anônima é candidato a se tornar uma arrow function
+
